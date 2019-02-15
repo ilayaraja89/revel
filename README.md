@@ -8,7 +8,7 @@ Current Version: 0.9.1 (Mar 1, 2014)
 
 ## Learn More
 
-[Manual, Samples, Godocs, etc](http://revel.github.com)
+[Manual, Samples, Godocs, etc.,](http://revel.github.com)
 
 ## Join The Community
 
